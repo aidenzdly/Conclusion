@@ -1,4 +1,4 @@
-1. (venv) $ pip intall gunicorn
+1. (venv) $ pip install gunicorn
 
 2. 创建sh执行文件启动gunicorn（方法很多种，conf、py等启动方式）
 
